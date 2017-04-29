@@ -13,3 +13,11 @@ Salespage:
 Resume:
 >Sass
 >Bootstrap components: progress bar, media object
+
+CMS
+>Bootswatch theme
+>Table classes
+>jQuery table sorter
+>Breadcrumps
+>Buttons group
+>Forms
